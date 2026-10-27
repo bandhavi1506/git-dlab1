@@ -1,2 +1,7 @@
 Hello GitHub
+<<<<<<< HEAD
 How you doing
+=======
+this is banandhvy
+>>>>>>> feature1
+Am fineeeeeeeee
